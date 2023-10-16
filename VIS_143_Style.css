@@ -66,13 +66,13 @@
 .content h1 {
     font-size: 70px;
     position: absolute;
-    left: 38%;
+    left: 20%;
     /*margin-top: 5px; /*initially 60*/
     top: -300px;
 }
 /*paragraph under big heading*/
 .content p {
-    margin: 20px auto;
+    margin: 60px auto;
     font-weight: 100;
     line-height: 25px;
 }
