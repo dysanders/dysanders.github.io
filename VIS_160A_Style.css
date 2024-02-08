@@ -68,7 +68,7 @@
     position: absolute;
     left: 20%;
     /*margin-top: 5px; /*initially 60*/
-    top: -300px;
+    top: -100px;
 }
 /*paragraph under big heading*/
 .content p {
