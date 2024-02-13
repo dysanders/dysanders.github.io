@@ -71,9 +71,15 @@
     top: -200px;
 }
 /*paragraph under big heading*/
-.content p {
+/*.content p {
     margin: 60px auto;
     font-weight: 100;
     line-height: 25px;
+}*/
+
+/*testing*/
+.box {
+    inline-size: 150px;
+    overflow-wrap: break-word;
 }
 
